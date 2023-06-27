@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanskriti345
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning BTECH CSE 
+- 🌱 I’m currently learning Flutter java
 - 💞️ I’m looking to collaborate on IT Companies
 - 📫 How to reach me sanskritiagrawal69@gmail.com
 
